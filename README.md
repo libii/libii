@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 🎨, 🐈‍⬛} 
 
 ## Tech Interests
-AI, AIOT, DevOps, Embedded Systems, Edge Computing, HPC and Reusability.
+AI, AIOT, Computer Vision, DevOps, Embedded Systems, Edge Computing, HPC and Reusability.
