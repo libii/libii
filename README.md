@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that make a positive evironmental impact. 🌎
 - ⚡ Fun fact: Fighting bugs by moonlight. 🌘
 
-## Interests
-🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 💻 👁️} 
+## Personal Interests
+🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 🎨} 
+
+## Tech Interests
+AI, AIOT, DevOps, Embedded Systems, Edge Computing, HPC and Reusability.
