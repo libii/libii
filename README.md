@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Fighting bugs by moonlight. 🌘
 
 ## Personal Interests
-🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 🎨} 
+🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 🎨, 🐈‍⬛} 
 
 ## Tech Interests
 AI, AIOT, DevOps, Embedded Systems, Edge Computing, HPC and Reusability.
