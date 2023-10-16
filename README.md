@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a personal project.
+- 🌱 I’m currently learning edge computing.
+- 👯 I’m looking to collaborate on projects that make a positive evironmental impact. 🌎
+- ⚡ Fun fact: Fighting bugs by moonlight. 🌘
+
+## Interests
+🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 💻 👁️} 
