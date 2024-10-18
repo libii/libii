@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a personal project.
-- 🌱 I’m currently learning edge computing.
 - 👯 I’m looking to collaborate on projects that make a positive evironmental impact. 🌎
 
 ## Personal Interests
 🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 🎨, 🐈‍⬛} 
 
 ## Tech Interests
-AI, AIOT, Computer Vision, DevOps, Embedded Systems, Edge Computing, and HPC.
+AI, Edge Computing, FPGA, Embedded Systems, DevOps and HPC.
