@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 
 ## Personal Interests
 🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 🎨, 🐈‍⬛} 
-
-## Tech Interests
-AI, Edge Computing, FPGA, Embedded Systems, DevOps and HPC.
