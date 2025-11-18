@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on projects that make a positive evironmental impact. 🌎s
 -->
 
-- 👯 I’m looking to collaborate on projects that make a positive evironmental impact. 🌎
+
 
 ## Personal Interests
 🧑🏻‍💻={🚀 🌌 🔭, ♻️ 🌎, 🎨, 🐈‍⬛} 
